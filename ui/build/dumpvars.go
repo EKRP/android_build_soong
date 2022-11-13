@@ -159,6 +159,7 @@ var BannerVars = []string{
 	"HOST_BUILD_TYPE",
 	"BUILD_ID",
 	"EKRP_VERSION",
+	"EKRP_TYPE",
 	"OUT_DIR",
 	"AUX_OS_VARIANT_LIST",
 	"TARGET_BUILD_PDK",
